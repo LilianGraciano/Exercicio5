@@ -1,0 +1,16 @@
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\bin\Debug\net5.0\EXERCICIO5.exe
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\bin\Debug\net5.0\EXERCICIO5.deps.json
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\bin\Debug\net5.0\EXERCICIO5.runtimeconfig.json
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\bin\Debug\net5.0\EXERCICIO5.runtimeconfig.dev.json
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\bin\Debug\net5.0\EXERCICIO5.dll
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\bin\Debug\net5.0\EXERCICIO5.pdb
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\obj\Debug\net5.0\EXERCICIO5.csproj.AssemblyReference.cache
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\obj\Debug\net5.0\EXERCICIO5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\obj\Debug\net5.0\EXERCICIO5.AssemblyInfoInputs.cache
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\obj\Debug\net5.0\EXERCICIO5.AssemblyInfo.cs
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\obj\Debug\net5.0\EXERCICIO5.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\obj\Debug\net5.0\EXERCICIO5.dll
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\obj\Debug\net5.0\refint\EXERCICIO5.dll
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\obj\Debug\net5.0\EXERCICIO5.pdb
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\obj\Debug\net5.0\EXERCICIO5.genruntimeconfig.cache
+C:\Users\Lilian\Desktop\c#\EXERCICIO5\EXERCICIO5\obj\Debug\net5.0\ref\EXERCICIO5.dll
